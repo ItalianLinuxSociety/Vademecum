@@ -14,10 +14,7 @@ Contenuto:
 
 TO-DO List:
 
-- Creare contenuto per: software libero per smartphone (quindi F-Droid e app di successo LIBERE!)
-- Generare QRCode da inserire sul retro per accedere alla versione di consultazione PDF.
 - Suggerire applicativi, soprattutto giochi, sezione al momento trascurata nella revisione.
-- Possibilita' di hosting per ISO di tutti i programmi per facilitarne la reperibilita'.
 - Rivedere rivedere e RIVEDERE!
 Mille cose da fare per renderlo efficiente, ma più siamo meglio è! (Qualcuno ha detto sviluppo collaborativo?)
 
