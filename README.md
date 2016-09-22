@@ -14,7 +14,6 @@ Contenuto:
 
 TO-DO List:
 
-- Suggerire applicativi, soprattutto giochi, sezione al momento trascurata nella revisione.
 - Rivedere rivedere e RIVEDERE!
 Mille cose da fare per renderlo efficiente, ma più siamo meglio è! (Qualcuno ha detto sviluppo collaborativo?)
 
