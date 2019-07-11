@@ -1817,12 +1817,7 @@
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="8" CH="   Ubuntu"/>
             <para PARENT="Titoletti Testo" LINESP="8"/>
             <para PARENT="Testo" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FCOLOR="Black" CH="Distri­bu­zio­ne ba­sata su De­bian, nata nel 2004 e fo­ca­lizzata sulla fa­ci­li­tà di uti­lizzo. Ubuntu vie­ne distri­bui­to gratui­ta­mente con li­cenza GNU GPL, il suo uti­lizzo princi­pa­le "/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FCOLOR="Black" CH="è"/>
-            <ITEXT FONT="Norasi Regular" FCOLOR="Black" CH=" de­sktop, ma pre­senta delle va­rianti per server, ta­blet, smartpho­ne e dispo­si­ti­vi IoT, po­nendo grande attenzio­ne al supporto hardware."/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FCOLOR="Black" CH=" Vie­ne co­stante­mente aggiornata, al punto di"/>
-            <ITEXT FONT="Norasi Regular" FCOLOR="Black" CH=" ave­re ben due ri­la­sci l'anno. Vanta uno dei più va­sti re­po­si­to­ry tra le distri­bu­zio­ni attualmente dispo­ni­bi­li e que­sto, insie­me ad una enorme commu­ni­ty, ne fa una delle scelte più adatte per chi muo­ve i pri­mi pas­si nell'uni­verso GNU/Li­n"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="ux."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FCOLOR="Black" CH="Distri­bu­zio­ne ba­sata su De­bian, nata nel 2004 e fo­ca­lizzata sulla fa­ci­li­tà di uti­lizzo. Ubuntu vie­ne distri­bui­to gratui­ta­mente con li­cenza GNU GPL, il suo uti­lizzo princi­pa­le è de­sktop, ma pre­senta delle va­rianti per server, ta­blet, smartpho­ne e dispo­si­ti­vi IoT, po­nendo grande attenzio­ne al supporto hardware. Vie­ne co­stante­mente aggiornata, al punto di ave­re ben due ri­la­sci l'anno. Vanta uno dei più va­sti re­po­si­to­ry tra le distri­bu­zio­ni attualmente dispo­ni­bi­li e que­sto, insie­me ad una enorme commu­ni­ty, ne fa una delle scelte più adatte per chi muo­ve i pri­mi pas­si nell'uni­verso GNU/Li­nux."/>
             <para PARENT="Titoletti Testo" ALIGN="3" LINESP="8"/>
             <tab FONT="ChunkFive Roman" FONTSIZE="8"/>
             <tab FONT="ChunkFive Roman" FONTSIZE="8"/>
