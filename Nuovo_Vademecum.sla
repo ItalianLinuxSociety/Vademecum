@@ -1176,7 +1176,7 @@
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="10" CH="               Crea il tuo blog perso­na­le con Wordpres­s!"/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="È uno tra i CMS (Content Ma­na­ge­ment Sy­ste­m) maggiormente uti­lizzati a li­vello interna­zio­na­le. E ca­ratte­rizzato da un si­ste­ma di plu­gin che ne estende le funzio­na­li­tà. Supporta la multi-utenza e può ge­sti­re più di un si­to."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="È uno tra i CMS (Content Ma­na­ge­ment Sy­ste­m) maggiormente uti­lizzati a li­vello interna­zio­na­le. È ca­ratte­rizzato da un si­ste­ma di plu­gin che ne estende le funzio­na­li­tà. Supporta la multi-utenza e può ge­sti­re più di un si­to."/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="Insie­me ad altri CMS fa­mo­si come Dru­pal e Joomla, do­mi­na in ma­nie­ra incontra­stata la ge­stio­ne dei siti web."/>
             <trail/>
