@@ -1111,7 +1111,7 @@
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="13" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="White" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="95" SCALEV="102" BASEO="0" KERN="0" CH="Benvenuto!"/>
             <para PARENT="Titoli" ALIGN="0" LINESPMode="0" LINESP="9"/>
             <para PARENT="Interlinea" LINESPMode="0" LINESP="9"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Questo manuale ti aiuterà a muovere consapevolmente i tuoi primi passi con il Software Libero: un modo etico e funzionale di utilizzare i tuoi dispositivi , in quanto fare una copia di un programma non è pirateria ma un atto pienamente legale e di condivisione, volto all'aiuto reciproco degli utenti e all'innovazione continua della tecnologia."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Questo manuale ti aiuterà a muovere consapevolmente i tuoi primi passi con il Software Libero: un modo etico e funzionale di utilizzare i tuoi dispositivi, in quanto fare una copia di un programma non è pirateria ma un atto pienamente legale e di condivisione, volto all'aiuto reciproco degli utenti e all'innovazione continua della tecnologia."/>
             <para PARENT="Testo" ALIGN="3" LINESPMode="0" LINESP="8"/>
             <para PARENT="Testo" LINESPMode="0" LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Riesci ad immaginarti un mondo in cui non sei tu che ti adatti ai programmi, ma sono i programmi che si adattano a te?"/>
@@ -1178,7 +1178,7 @@
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="È uno tra i CMS (Content Ma­na­ge­ment Sy­ste­m) maggiormente uti­lizzati a li­vello interna­zio­na­le. E ca­ratte­rizzato da un si­ste­ma di plu­gin che ne estende le funzio­na­li­tà. Supporta la multi-utenza e può ge­sti­re più di un si­to."/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="Insie­ma ad altri CMS fa­mo­si come Dru­pal e Joomla, do­mi­na in ma­nie­ra incontra­stata la ge­stio­ne dei siti web."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="Insie­me ad altri CMS fa­mo­si come Dru­pal e Joomla, do­mi­na in ma­nie­ra incontra­stata la ge­stio­ne dei siti web."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1241,7 +1241,7 @@
             <para PARENT="Rientri2" ALIGN="3" LINESP="8"/>
             <para PARENT="Rientri2" LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="• "/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="una maggio­re si­cu­rezza: e' un dato di fatto che i sistemi GNU/Linux siano meno vulnerabili ad attacchi di virus, spyware e malware in genere. I software malevoli che possono danneggiare un sistema GNU/Linux sono una percentuale minima rispetto a quelli che possono attaccare altri sistemi. Inoltre l'architettura propria dei sistemi GNU/Linux rende più difficile apportare danni consistenti al sistema. Questo non significa abbassare la guardia e ignorare il problema della sicurezza, ma bastano pochi accorgimenti per ridurre al minimo i rischi e stare tranquilli;"/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="una maggio­re si­cu­rezza: è un dato di fatto che i sistemi GNU/Linux siano meno vulnerabili ad attacchi di virus, spyware e malware in genere. I software malevoli che possono danneggiare un sistema GNU/Linux sono una percentuale minima rispetto a quelli che possono attaccare altri sistemi. Inoltre l'architettura propria dei sistemi GNU/Linux rende più difficile apportare danni consistenti al sistema. Questo non significa abbassare la guardia e ignorare il problema della sicurezza, ma bastano pochi accorgimenti per ridurre al minimo i rischi e stare tranquilli;"/>
             <para PARENT="Rientri2" ALIGN="3" LINESP="8"/>
             <para PARENT="Rientri2" LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="• prestazioni dignitose anche su macchine vecchie: negli anni è risultato evidente che il mercato del software traina quello dell'hardware."/>
@@ -1314,7 +1314,7 @@
             <ITEXT FONTSIZE="10" CH=" "/>
             <para PARENT="Titoletti Testo" ALIGN="2" LINESP="8"/>
             <para PARENT="Interlinea" ALIGN="2"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="-1" CH="È l'applicazione per cui varrebbe la pena avere GNU/Linux: una sorta di incrocio fra iTunes + VLC + Windows Media Player ed altri programmi audio/video inclusi in un unico programma. Può gestire iPod, lettori mp3 ed mp4, masterizzare CD/DVD direttamente dalla propria collezione musicale, stilare statistiche di ascolti e classifiche per generi e preferenze, ascoltare webradio e podcast. È molto versatile, semplice da usare e vanta un app Android molto funzio­na­le per ge­sti­re la mu­si­ca dal dispo­si­ti­vo mo­bi­le."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="-1" CH="È l'applicazione per cui varrebbe la pena avere GNU/Linux: una sorta di incrocio fra iTunes + VLC + Windows Media Player ed altri programmi audio/video inclusi in un unico programma. Può gestire iPod, lettori mp3 ed mp4, masterizzare CD/DVD direttamente dalla propria collezione musicale, stilare statistiche di ascolti e classifiche per generi e preferenze, ascoltare webradio e podcast. È molto versatile, semplice da usare e vanta un'app Android molto funzio­na­le per ge­sti­re la mu­si­ca dal dispo­si­ti­vo mo­bi­le."/>
             <trail PARENT="Testo" ALIGN="3" LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1411,7 +1411,7 @@
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="tale che altri possano beneficiarne."/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Internet poi è un'enorme &quot;libretto di istruzioni&quot; dove si possono trovare centinaia di risorse con risposte a pressoché ogni domanda su qualsiasi programma libero."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Internet poi è un enorme &quot;libretto di istruzioni&quot; dove si possono trovare centinaia di risorse con risposte a pressoché ogni domanda su qualsiasi programma libero."/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Se hai un'azienda o sei un libero professionista interessato a questo tipo di soluzioni, ti consigliamo di rivolgerti ad altri professionisti o aziende specializzate: ne troverai anche nel tuo territorio perché il Software Libero dimostra giorno per giorno la sua validità e quindi occupa uno spazio sempre crescente nel mercato. In questo come in altri campi, sono evidenti le differenze tra un supporto volontario, che è indiscutibilmente adatto per appassionati e curiosi, e uno professionale che invece si adatta in modo più efficace agli obiettivi di un'impresa."/>
@@ -1801,7 +1801,7 @@
             <para PARENT="Testo_chiaro" ALIGN="3" LINESP="8"/>
             <para PARENT="Testo_chiaro" ALIGN="3" LINESP="8"/>
             <para ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FCOLOR="Black" CH="In que­sto va­de­me­cum vo­glia­mo parla­re delle distro piiù uti­lizzate e che vanta­no delle commu­ni­ty più ampie e di conse­guenza, di maggior supporto."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FCOLOR="Black" CH="In que­sto va­de­me­cum vo­glia­mo parla­re delle distro più uti­lizzate e che vanta­no delle commu­ni­ty più ampie e di conse­guenza, di maggior supporto."/>
             <para PARENT="Testo_chiaro" ALIGN="3" LINESP="8"/>
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="8" FCOLOR="Black" CH=" "/>
             <para PARENT="Titoletti Testo" LINESP="8"/>
@@ -2064,7 +2064,7 @@
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="13" FCOLOR="Black" CH="Ambienti Desktop"/>
             <para PARENT="Interlinea" LINESP="9"/>
             <para PARENT="Titoli chiari" LINESP="9"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="L'ambiente desktop, ovvero l'interfaccia utente, è uno dei componenti più importanti per interagire con il PC. Sui sistemi GNU/Linux è possibile scegliere tra diversi ambienti desktop, adattando il siistema ai propri gusti e alle proprie necessità. Ecco i principali:"/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="L'ambiente desktop, ovvero l'interfaccia utente, è uno dei componenti più importanti per interagire con il PC. Sui sistemi GNU/Linux è possibile scegliere tra diversi ambienti desktop, adattando il sistema ai propri gusti e alle proprie necessità. Ecco i principali:"/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
             <para LINESP="9"/>
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="8" CH="Gnome"/>
@@ -2956,7 +2956,7 @@
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH=" e moltis­si­me altre!"/>
             <para LINESP="8"/>
             <para LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="I­noltre, il più delle volte è pos­si­bi­le so­sti­tui­re il si­ste­ma ope­rati­vo pre­installato, con versio­ni comple­ta­mente li­be­re da app  di de­fault inu­ti­li."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="I­noltre, il più delle volte è pos­si­bi­le so­sti­tui­re il si­ste­ma ope­rati­vo pre­installato, con versio­ni comple­ta­mente li­be­re da app di de­fault inu­ti­li."/>
             <para LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="In que­sto caso ti se­gna­lia­mo due pro­getti molto inte­res­santi: "/>
             <para LINESP="8"/>
@@ -3003,7 +3003,7 @@
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="10" CH="               Produci i tuoi documenti con Li­breOffi­ce"/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="È una suite di programmi per l'ufficio libera e multipiattaforma. Il pacchetto software contiene Writer, l'elaboratore di testi, Calc, il foglio di calcolo elettronico, Impress, il software per creare presentazioni, Draw, il software per disegnare schemi, Math l'editor di formule matematiche e Base, lo strumento la gestione di semplici database. Molti utenti e aziende, constatati i costi in continua ascesa e talvolta insostenibili delle alternative proprietarie, stanno sperimentando il passaggio ad LibreOffice con ottimi risultati, anche grazie alla sua compatibilità con i formati dei documenti MS Office e alla possibilità di esportare rapidamente in PDF."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="È una suite di programmi per l'ufficio libera e multipiattaforma. Il pacchetto software contiene Writer, l'elaboratore di testi, Calc, il foglio di calcolo elettronico, Impress, il software per creare presentazioni, Draw, il software per disegnare schemi, Math l'editor di formule matematiche e Base, lo strumento per la gestione di semplici database. Molti utenti e aziende, constatati i costi in continua ascesa e talvolta insostenibili delle alternative proprietarie, stanno sperimentando il passaggio a LibreOffice con ottimi risultati, anche grazie alla sua compatibilità con i formati dei documenti MS Office e alla possibilità di esportare rapidamente in PDF."/>
             <trail PARENT="Testo" ALIGN="3" LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
