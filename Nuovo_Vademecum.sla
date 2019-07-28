@@ -2781,7 +2781,7 @@
             <para PARENT="Interlinea" ALIGN="3" LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="Vuoi acce­de­re ai tuoi file da re­mo­to in ma­nie­ra sempli­ce? Ma­ga­ri anche da smartpho­ne e ta­ble­t? Allo­ra Nextc­loud fa al caso tuo!"/>
             <para PARENT="Testo" ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="Il pro­getto è un nuo­vis­si­mo fork di ow­nC­loud. Entrambi forni­sco­no un modo ra­pi­do di condi­vi­de­re e ge­sti­re tutte le ti­po­lo­gie di do­cu­menti."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="Il pro­getto è un fork di ow­nC­loud. Entrambi forni­sco­no un modo ra­pi­do di condi­vi­de­re e ge­sti­re tutte le ti­po­lo­gie di do­cu­menti."/>
             <trail LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
