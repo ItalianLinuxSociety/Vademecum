@@ -1671,7 +1671,7 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="12" PTYPE="4" XPOS="177.234102268516" YPOS="3324.6998496063" WIDTH="86.3565276527441" HEIGHT="13" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="0.665279373789253" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Norasi BoldItalic" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0.850394" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 86.3565 0 86.3565 0 86.3565 0 86.3565 0 86.3565 13 86.3565 13 86.3565 13 86.3565 13 0 13 0 13 0 13 0 13 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 86.3565 0 86.3565 0 86.3565 0 86.3565 0 86.3565 13 86.3565 13 86.3565 13 86.3565 13 0 13 0 13 0 13 0 13 0 0 0 0 " NUMGROUP="1" GROUPS="18 " startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="19.4033936070989" gYpos="1" gWidth="105.759921259843" gHeight="14" PSTYLE="Rientri" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="https://it.wordpress.org/"/>
+            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="7" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="https://it.wordpress.org"/>
             <trail PARENT="NO rientri"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1804,14 +1804,14 @@
         <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="456.630165354331" YPOS="3860.28062283463" WIDTH="171.686" HEIGHT="22.6772" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="8" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Norasi BoldItalic" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="ChunkFive Roman" CH="Mi­ne­te­st"/>
             <para PARENT="Testo" LINESP="8"/>
-            <ITEXT CH="http://www.minetest.net/"/>
+            <ITEXT CH="http://www.minetest.net"/>
             <trail PARENT="Testo" LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="456.630165354331" YPOS="3896.28062283463" WIDTH="171.686" HEIGHT="22.6772" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Norasi BoldItalic" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="ChunkFive Roman" CH="Teeworlds"/>
             <para PARENT="Testo"/>
-            <ITEXT CH="https://www.teeworlds.com/"/>
+            <ITEXT CH="https://www.teeworlds.com"/>
             <trail PARENT="Testo"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1830,7 +1830,7 @@
         <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="456.630165354331" YPOS="3933.28062283463" WIDTH="171.686" HEIGHT="22.6772" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Norasi BoldItalic" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="ChunkFive Roman" CH="Frets On Fire"/>
             <para PARENT="Testo"/>
-            <ITEXT CH="http://fretsonfire.sourceforge.net/"/>
+            <ITEXT CH="http://fretsonfire.sourceforge.net"/>
             <trail PARENT="Testo"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1849,7 +1849,7 @@
         <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="456.630165354331" YPOS="4007.28062283463" WIDTH="171.686" HEIGHT="22.6772" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Norasi BoldItalic" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="ChunkFive Roman" CH="Numpty Phy­sics"/>
             <para PARENT="Testo" LINESP="8"/>
-            <ITEXT FONTSIZE="8" CH="http://numptyphysics.garage.maemo.org/"/>
+            <ITEXT FONTSIZE="8" CH="http://numptyphysics.garage.maemo.org"/>
             <trail LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1868,7 +1868,7 @@
         <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="456.630165354331" YPOS="4040.44597716534" WIDTH="171.686" HEIGHT="22.6772" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Norasi BoldItalic" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="8" CH="Battle Of We­sno­th"/>
             <para PARENT="Testo" LINESP="8"/>
-            <ITEXT FONTSIZE="8" CH="http://www.wesnoth.org/"/>
+            <ITEXT FONTSIZE="8" CH="http://www.wesnoth.org"/>
             <trail LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1918,7 +1918,7 @@
             <para PARENT="Testo" LINESP="8"/>
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="8" CH="Warzo­ne2100"/>
             <para PARENT="Testo" LINESP="8"/>
-            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="8" CH="https://wz2100.net/"/>
+            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="8" CH="https://wz2100.net"/>
             <trail LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -2414,12 +2414,12 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="585.637795254331" YPOS="2252.38118105828" WIDTH="83.25" HEIGHT="9.17503937" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 83.25 0 83.25 0 83.25 0 83.25 0 83.25 9.17504 83.25 9.17504 83.25 9.17504 83.25 9.17504 0 9.17504 0 9.17504 0 9.17504 0 9.17504 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 83.25 0 83.25 0 83.25 0 83.25 0 83.25 9.17504 83.25 9.17504 83.25 9.17504 83.25 9.17504 0 9.17504 0 9.17504 0 9.17504 0 9.17504 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="https://www.gnome.org/"/>
+            <ITEXT CH="https://www.gnome.org"/>
             <trail PARENT="NO rientri"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="9" PTYPE="4" XPOS="585.637795254331" YPOS="2311.90874011015" WIDTH="83.25" HEIGHT="9.17503937" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 83.25 0 83.25 0 83.25 0 83.25 0 83.25 9.17504 83.25 9.17504 83.25 9.17504 83.25 9.17504 0 9.17504 0 9.17504 0 9.17504 0 9.17504 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 83.25 0 83.25 0 83.25 0 83.25 0 83.25 9.17504 83.25 9.17504 83.25 9.17504 83.25 9.17504 0 9.17504 0 9.17504 0 9.17504 0 9.17504 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="https://www.kde.org/"/>
+            <ITEXT CH="https://www.kde.org"/>
             <trail PARENT="NO rientri"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -2836,7 +2836,7 @@
             <para LINESP="8"/>
             <para LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="F-Droid lo tro­vi sul sito "/>
-            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="8" CH="https://f-droid.org/"/>
+            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="8" CH="https://f-droid.org"/>
             <para LINESP="8"/>
             <para LINESP="8"/>
             <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="T­ra le app che ti consi­glia­mo di pro­va­re ci sono "/>
@@ -2866,7 +2866,7 @@
             <tab FONT="Norasi BoldItalic" FONTSIZE="8"/>
             <tab FONT="Norasi BoldItalic" FONTSIZE="8"/>
             <tab FONT="Norasi BoldItalic" FONTSIZE="8"/>
-            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="8" CH="https://­li­nea­geos.org/"/>
+            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="8" CH="https://­li­nea­geos.org"/>
             <para LINESP="8"/>
             <para LINESP="8"/>
             <ITEXT FONTSIZE="8" CH="Re­pli­cant"/>
@@ -2978,7 +2978,7 @@
         <PAGEOBJECT OwnPage="15" PTYPE="4" XPOS="456.630165354331" YPOS="3967.5955834567" WIDTH="171.686" HEIGHT="22.6772" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSTROKE="Black" TXTSTRSH="100" TXTFILLSH="100" TXTSCALE="100" TXTSCALEV="100" TXTBASE="0" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" TXTKERN="0" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="14.4" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Norasi BoldItalic" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 171.686 0 171.686 0 171.686 0 171.686 0 171.686 22.6772 171.686 22.6772 171.686 22.6772 171.686 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="2" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="8" CH="0 A.D."/>
             <para LINESP="8"/>
-            <ITEXT FONTSIZE="8" CH="https://play0ad.com/"/>
+            <ITEXT FONTSIZE="8" CH="https://play0ad.com"/>
             <trail LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
