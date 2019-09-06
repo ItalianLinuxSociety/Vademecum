@@ -1289,15 +1289,7 @@
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="10" CH="Entra in chat con i tuoi contatti gra­zie a Pidgin"/>
             <para PARENT="Titoletti Testo" ALIGN="3" LINESP="10"/>
             <para PARENT="Interlinea" ALIGN="3" LINESP="9"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="-2" CH="Oggi­giorno tutti usia­mo i servi­zi di mes­saggi­sti­ca istanta­nea. Empathy permette di acce­de­re a più reti (ad es. MSN,"/>
-            <para PARENT="Testo" ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="-2" CH="Ya­hoo, Hangout, Fa­ce­book, va­rie reti IRC) "/>
-            <para PARENT="Testo" ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="-2" CH="contempo­ra­nea­mente con un solo stru­mento. "/>
-            <para PARENT="Testo" ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="-2" CH="Può es­se­re perso­na­lizzato con nu­me­ro­se estensio­ni ed è "/>
-            <para PARENT="Testo" ALIGN="3" LINESP="8"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="-2" CH="do­tato di un'interfaccia intui­ti­va."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="-2" CH="Oggi­giorno tutti usia­mo i servi­zi di mes­saggi­sti­ca istanta­nea. Pidgin permette di acce­de­re a più reti (ad es. MSN, Ya­hoo, Hangout, Fa­ce­book, va­rie reti IRC) contempo­ra­nea­mente con un solo stru­mento. Può es­se­re perso­na­lizzato con nu­me­ro­se estensio­ni ed è do­tato di un'interfaccia intui­ti­va."/>
             <trail PARENT="Testo" ALIGN="3" LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
