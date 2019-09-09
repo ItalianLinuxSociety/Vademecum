@@ -1492,7 +1492,7 @@
             <ITEXT FONT="Norasi BoldItalic" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH=" "/>
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="Blender"/>
             <para PARENT="Testo" LINESP="8"/>
-            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="https://www.blender.it"/>
+            <ITEXT FONT="Norasi BoldItalic" FONTSIZE="8" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" CH="https://www.blender.org"/>
             <trail PARENT="Testo"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
