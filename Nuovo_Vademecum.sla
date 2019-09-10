@@ -1721,7 +1721,7 @@
             <ITEXT FONT="ChunkFive Roman" FONTSIZE="8" CH="Linux Mint"/>
             <para PARENT="Titoletti Testo" ALIGN="3" LINESP="8"/>
             <para PARENT="Testo" LINESP="9"/>
-            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="Parimenti ad Ubuntu dalla quale deriva, Linux Mint è una distribuzione pensata per essere facile e completa. Segue le tempistiche di rilascio di Ubuntu con la quale è pienamente compatibile e ne condivide il vasto parco software. Si presenta con un'interfaccia grafica più tradizionale (GNOME), che riesce ad essere moderna ed accattivante pur non stravolgendo i canoni ormai consolidati del desktop clas­si­co."/>
+            <ITEXT FONT="Norasi Regular" FONTSIZE="8" CH="Parimenti ad Ubuntu dalla quale deriva, Linux Mint è una distribuzione pensata per essere facile e completa. Segue le tempistiche di rilascio di Ubuntu con la quale è pienamente compatibile e ne condivide il vasto parco software. Si presenta con interfacce grafiche più tradizionali (Cinnamon, MATE, XFCE), che riescono ad essere moderne ed accattivanti pur non stravolgendo i canoni ormai consolidati del desktop clas­si­co."/>
             <trail PARENT="Testo" ALIGN="3" LINESP="8"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
